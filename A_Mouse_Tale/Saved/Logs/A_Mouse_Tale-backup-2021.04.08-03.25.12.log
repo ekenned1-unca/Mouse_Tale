@@ -1,0 +1,1622 @@
+﻿Log file open, 04/07/21 21:44:20
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: A_Mouse_Tale
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 12.965737
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Brennen/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Non-Steam Games/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.08-01.44.27:049][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.08-01.44.27:049][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.08-01.44.27:050][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Engine.ini]
+[2021.04.08-01.44.27:050][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Engine.ini]
+[2021.04.08-01.44.27:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Engine.ini]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Engine.ini]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.04.08-01.44.27:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Engine.ini]
+[2021.04.08-01.44.27:051][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Engine.ini]
+[2021.04.08-01.44.27:213][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.08-01.44.27:213][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.08-01.44.27:214][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.08-01.44.27:225][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.08-01.44.27:226][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.08-01.44.27:233][  0]LogHAL: Display: Platform has ~ 8 GB [8536236032 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.08-01.44.27:233][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.08-01.44.27:237][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.08-01.44.27:238][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Scalability.ini]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.08-01.44.27:239][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.08-01.44.27:256][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.08-01.44.27:256][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.08-01.44.27:256][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.08-01.44.27:256][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Config/Windows/Engine.ini]
+[2021.04.08-01.44.27:300][  0]LogInit: Computer: PARFAIT
+[2021.04.08-01.44.27:300][  0]LogInit: User: Brennen
+[2021.04.08-01.44.27:300][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.04.08-01.44.27:300][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.08-01.44.27:300][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.04.08-01.44.27:300][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.08-01.44.27:300][  0]LogMemory: Process Physical Memory: 134.88 MB used, 134.88 MB peak
+[2021.04.08-01.44.27:300][  0]LogMemory: Process Virtual Memory: 118.09 MB used, 118.09 MB peak
+[2021.04.08-01.44.27:300][  0]LogMemory: Physical Memory: 5115.57 MB used,  3025.22 MB free, 8140.79 MB total
+[2021.04.08-01.44.27:300][  0]LogMemory: Virtual Memory: 134211080.00 MB used,  6648.82 MB free, 134217728.00 MB total
+[2021.04.08-01.44.27:325][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.08-01.44.28:353][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.08-01.44.28:379][  0]LogInit: Using OS detected language (en-US).
+[2021.04.08-01.44.28:379][  0]LogInit: Using OS detected locale (en-US).
+[2021.04.08-01.44.28:612][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.08-01.44.29:289][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.08-01.44.29:762][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.08-01.44.31:020][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.08-01.44.31:020][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.08-01.44.41:439][  0]LogHMD: Failed to initialize OpenVR with code 309
+[2021.04.08-01.44.41:439][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.08-01.44.41:439][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.08-01.44.41:439][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.08-01.44.41:658][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2021.04.08-01.44.41:658][  0]LogD3D11RHI:       4043/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.04.08-01.44.41:662][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.08-01.44.41:662][  0]LogD3D11RHI:       0/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.08-01.44.41:662][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.08-01.44.41:693][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.08-01.44.41:694][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.08-01.44.41:694][  0]LogWindows: EnumDisplayDevices:
+[2021.04.08-01.44.41:694][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2021.04.08-01.44.41:694][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2021.04.08-01.44.41:695][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2021.04.08-01.44.41:695][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2021.04.08-01.44.41:696][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.04.08-01.44.41:696][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2021.04.08-01.44.41:696][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.04.08-01.44.41:696][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.04.08-01.44.41:696][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2021.04.08-01.44.41:767][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.08-01.44.41:767][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.08-01.44.41:767][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.08-01.44.42:311][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.08-01.44.42:416][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.04.08-01.44.44:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.08-01.44.44:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.08-01.44.44:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.08-01.44.44:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.08-01.44.44:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.08-01.44.44:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.08-01.44.44:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.08-01.44.44:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.08-01.44.44:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.08-01.44.44:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.08-01.44.44:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.08-01.44.44:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.08-01.44.44:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.08-01.44.44:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.08-01.44.44:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.08-01.44.44:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.08-01.44.44:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.08-01.44.44:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.08-01.44.44:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.08-01.44.44:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.08-01.44.44:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.08-01.44.44:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.08-01.44.44:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.04.08-01.44.45:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.04.08-01.44.45:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.04.08-01.44.45:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.04.08-01.44.45:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.08-01.44.45:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.08-01.44.45:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.08-01.44.45:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.08-01.44.45:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.08-01.44.45:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.08-01.44.45:208][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.08-01.44.45:455][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.08-01.44.46:476][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.04.08-01.44.46:513][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Intermediate/Shaders/WorkingDirectory/17236/).
+[2021.04.08-01.44.46:513][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Brennen/AppData/Local/Temp/UnrealShaderWorkingDir/2137A12140F8E8C2953AE6862D511B8F/'.
+[2021.04.08-01.44.46:525][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.08-01.44.46:525][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.08-01.44.53:834][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.08-01.44.54:089][  0]LogDerivedDataCache: Loaded boot cache 0.25s 81MB C:/Users/Brennen/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.08-01.44.54:089][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Brennen/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.04.08-01.44.54:090][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.08-01.44.54:090][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.08-01.44.54:090][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.08-01.44.54:090][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.08-01.44.54:143][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.08-01.44.54:143][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.08-01.44.54:144][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.08-01.44.54:342][  0]LogDerivedDataCache: Speed tests for C:/Users/Brennen/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.20 seconds
+[2021.04.08-01.44.54:342][  0]LogDerivedDataCache: Display: Performance to C:/Users/Brennen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.32ms. RandomReadSpeed=14.25MBs, RandomWriteSpeed=8.71MBs. Assigned SpeedClass 'Local'
+[2021.04.08-01.44.54:343][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Brennen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.08-01.44.54:343][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.08-01.44.54:343][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.08-01.44.54:628][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.08-01.44.54:782][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.08-01.44.56:051][  0]LogAssetRegistry: FAssetRegistry took 0.0532 seconds to start up
+[2021.04.08-01.45.15:921][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.08-01.45.15:921][  0]LogInit: Active device profile: [00000281FC6A7400][00000281FC2CF380 49] Windows
+[2021.04.08-01.45.15:921][  0]LogInit: Profiles: [00000281FC6A7400][00000281FC2CF380 49] Windows, [00000281FC6A0E00][00000281FC2D7500 49] WindowsNoEditor, [00000281FC6A4D00][00000281FC2D3640 49] WindowsServer, [00000281FC6A2F00][00000281FC2DB780 49] WindowsClient, [00000281FC6A6D00][00000281FC2DF8C0 49] IOS, [00000281FC6A1600][00000281FC2E3A00 49] iPadAir, [00000281FC6A5400][00000281FC2EBB80 49] iPadAir2, [00000281FC658A00][00000281FC2F2180 49] IPadPro, [00000281FC658B00][00000281FC2EE1C0 49] iPadAir3, [00000281FC6A6800][00000281FC2F6340 49] iPadAir4, [00000281FC65B700][00000281FC2FA4C0 49] iPadMini2, [00000281FC6A5800][00000281FC2FE640 49] iPadMini3, [00000281FC65A100][00000281FC3027C0 49] iPadMini4, [00000281FC6A7A00][00000281FC306940 49] iPadMini5, [00000281FC6A0C00][00000281FC30EC00 49] iPhone6, [00000281FC6A3000][00000281FC30AC40 49] iPodTouch6, [00000281FC658D00][00000281FC316F00 49] iPhone7, [00000281FC65A300][00000281FC312F40 49] iPodTouch7, [00000281FC6A3900][00000281FC31B0C0 49] iPhone5S, [00000281FC65AD00][00000281FC31F240 49] iPhone6Plus, [00000281FC6A3200][00000281FC3233C0 49] iPhone6S, [00000281FC65B900][00000281FC327540 49] iPhone6SPlus, [00000281FC6A0400][00000281FC32B6C0 49] iPhone7Plus, [00000281FC659600][00000281FC2E7800 49] iPhoneSE, [00000281FC6A2C00][00000281FC32F940 49] iPhone8, [00000281FC65AA00][00000281FC333A80 49] iPhone8Plus, [00000281FC6A2600][00000281FC33BC00 49] iPhoneX, [00000281FC659700][00000281FC33E0C0 49] iPhoneXS, [00000281FC6A3F00][00000281FC342240 49] iPhoneXSMax, [00000281FC658100][00000281FC3463C0 49] iPhoneXR, [00000281FC6A1200][00000281FC34A540 49] iPhone11, [00000281FC65BA00][00000281FC34E6C0 49] iPhone11Pro, [00000281FC6A0200][00000281FC352840 49] iPhone11ProMax, [00000281FC659A00][00000281FC3569C0 49] iPhoneSE2, [00000281FC6A1100][00000281FC35AB40 49] iPhone12Mini, [00000281FC65A200][00000281FC35ECC0 49] iPhone12, [00000281FC6A2700][00000281FC362E40 49] iPhone12Pro, [00000281FC658600][00000281FC366FC0 49] iPhone12ProMax, [00000281FC6A3800][00000281FC36B140 49] iPadPro105, [00000281FC659000][00000281FC36F2C0 49] iPadPro129, [00000281FC6A2B00][00000281FC373440 49] iPadPro97, [00000281FC659400][00000281FC3775C0 49] iPadPro2_129, [00000281FC6A3D00][00000281FC37B740 49] iPad5, [00000281FC659F00][00000281FC337880 49] iPad6, [00000281FC6A0A00][00000281FC37F9C0 49] iPad7, [00000281FC65B300][00000281FC383B00 49] iPad8, [00000281FC6A2000][00000281FC387C40 49] iPadPro11, [00000281FC658400][00000281FC38E100 49] iPadPro2_11, [00000281FC6A3500][00000281FC392280 49] iPadPro3_129, [00000281FC658E00][00000281FC396400 49] iPadPro4_129, [00000281FC6A2200][00000281FC39A580 49] AppleTV, [00000281FC659200][00000281FC39E700 49] AppleTV4K, [00000281FC6A1000][00000281FC3A2880 49] TVOS, [00000281FC65A900][00000281FC3A6A00 49] Mac, [00000281FC6A2800][00000281FC3AAB80 49] MacClient, [00000281FC659C00][00000281FC3AED00 49] MacNoEditor, [00000281FC6A1700][00000281FC3B2E80 49] MacServer, [00000281FC659E00][00000281FC3B7000 49] Linux, [00000281FC6A4600][00000281FC3BB180 49] LinuxNoEditor, [00000281FB5C5B00][00000281FC3BF300 49] LinuxAArch64NoEditor, [00000281FC6A6500][00000281FC3C3480 49] LinuxClient, [00000281FB5C4100][00000281FC3C7600 49] LinuxAArch64Client, [00000281FC6A5A00][00000281FC3CB780 49] LinuxServer, [00000281FB5C4700][00000281FC38B8C0 49] LinuxAArch64Server, [00000281FC6A5B00][00000281FC3CFA00 49] Android, [00000281FB5C5300][00000281FC3D3B40 49] Android_Low, [00000281FC6A6600][00000281FC3D7C80 49] Android_Mid, [00000281FB5C5400][00000281FC3DE140 49] Android_High, [00000281FC6A5200][00000281FC3E22C0 49] Android_Default, [00000281FB5C5100][00000281FC3E6440 49] Android_Adreno4xx, [00000281FC6A4900][00000281FC3EA5C0 49] Android_Adreno5xx_Low, [00000281FB5C5700][00000281FC3EE740 49] Android_Adreno5xx, [00000281FC6A7F00][00000281FC3F28C0 49] Android_Adreno6xx, [00000281FB5C4B00][00000281FC3F6A40 49] Android_Adreno6xx_Vulkan, [00000281FC65B800][00000281FC3FABC0 49] Android_Mali_T6xx, [00000281FC6A2100][00000281FC3FED40 49] Android_Mali_T7xx, [00000281FC659100][00000281FC402EC0 49] Android_Mali_T8xx, [00000281FC6A1E00][00000281FC407040 49] Android_Mali_G71, [00000281FC658800][00000281FC40B1C0 49] Android_Mali_G72, [00000281FC6A1500][00000281FC40F340 49] Android_Mali_G72_Vulkan, [00000281FC65A000][00000281FC4134C0 49] Android_Mali_G76, [00000281FC6A0600][00000281FC417640 49] Android_Mali_G76_Vulkan, [00000281FC65AC00][00000281FC41B7C0 49] Android_Mali_G77, [00000281FC6A2D00][00000281FC41F940 49] Android_Mali_G77_Vulkan, [00000281FC658900][00000281FC3DBA80 49] Android_Vulkan_SM5, [00000281FC6A2300][00000281FC423BC0 49] Android_PowerVR_G6xxx, [00000281FC65AE00][00000281FC427D00 49] Android_PowerVR_GT7xxx, [00000281FC6A0700][00000281FC42E1C0 49] Android_PowerVR_GE8xxx, [00000281FC659800][00000281FC432340 49] Android_PowerVR_GM9xxx, [00000281FC6A0100][00000281FC4364C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000281FC659300][00000281FC43A640 49] Android_TegraK1, [00000281FC6A2400][00000281FC43E7C0 49] Android_Unknown_Vulkan, [00000281FC659500][00000281FC442940 49] Lumin, [00000281FB5C4A00][00000281FC446AC0 49] Lumin_Desktop, [00000281FC659900][00000281FC44AC40 49] HoloLens, 
+[2021.04.08-01.45.24:639][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.08-01.45.24:639][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.08-01.45.24:639][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.08-01.45.24:639][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.08-01.45.24:743][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.08-01.45.28:987][  0]LogNetVersion: A_Mouse_Tale 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2348303924)
+[2021.04.08-01.45.56:234][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.04.08-01.45.56:935][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.482646 seconds
+[2021.04.08-01.45.57:199][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.04.08-01.45.57:218][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.04.08-01.45.57:218][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.08-01.46.11:151][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.08-01.46.11:393][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.08-01.46.16:432][  0]SourceControl: Source control is disabled
+[2021.04.08-01.46.16:432][  0]SourceControl: Source control is disabled
+[2021.04.08-01.46.16:528][  0]SourceControl: Source control is disabled
+[2021.04.08-01.46.16:834][  0]SourceControl: Source control is disabled
+[2021.04.08-01.46.17:435][  0]SourceControl: Source control is disabled
+[2021.04.08-01.46.17:498][  0]LogUProjectInfo: Found projects:
+[2021.04.08-01.46.22:571][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.08-01.46.23:413][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.08-01.46.23:413][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.08-01.46.26:692][  0]LogCollectionManager: Loaded 0 collections in 0.001012 seconds
+[2021.04.08-01.46.27:370][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Collections/' took 0.02s
+[2021.04.08-01.46.27:370][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Developers/Brennen/Collections/' took 0.00s
+[2021.04.08-01.46.27:370][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Collections/' took 0.00s
+[2021.04.08-01.46.27:370][  0]LogOcInput: OculusInput pre-init called
+[2021.04.08-01.46.31:616][  0]LogAutomationTest: Warning: Smoke tests took >2s to run (2.04s). 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' took 1855ms. SmokeFilter tier tests should take less than 1ms. Please optimize or move 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' to a slower tier than SmokeFilter.
+[2021.04.08-01.46.31:917][  0]LogEngine: Initializing Engine...
+[2021.04.08-01.46.37:161][  0]LogHMD: Failed to initialize OpenVR with code 309
+[2021.04.08-01.46.37:200][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.08-01.46.37:427][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.017 s
+[2021.04.08-01.46.38:819][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.08-01.46.40:059][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.08-01.46.40:342][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.04.08-01.46.40:440][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.04.08-01.46.40:440][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.04.08-01.46.40:449][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.08-01.46.40:449][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.08-01.46.40:449][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.08-01.46.40:449][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.08-01.46.40:449][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.08-01.46.40:449][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.08-01.46.40:449][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.08-01.46.40:471][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.08-01.46.40:480][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.08-01.46.40:481][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.08-01.46.40:697][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-01.46.40:697][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-01.46.40:794][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.08-01.46.40:872][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.08-01.46.40:938][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.08-01.46.40:939][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.08-01.46.40:942][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.08-01.46.40:942][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.08-01.46.40:943][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.08-01.46.40:944][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.08-01.46.40:944][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.08-01.46.40:944][  0]LogInit: FAudioDevice initialized.
+[2021.04.08-01.46.40:969][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.04.08-01.46.40:969][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.04.08-01.46.41:009][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.08-01.46.41:163][  0]LogDerivedDataCache: Saved boot cache 0.15s 81MB C:/Users/Brennen/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.08-01.46.41:168][  0]LogInit: Texture streaming: Enabled
+[2021.04.08-01.46.41:461][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.04.08-01.46.41:507][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.08-01.46.41:543][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.08-01.46.41:673][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.08-01.46.42:123][  0]LogInit: Transaction tracking system initialized
+[2021.04.08-01.46.42:603][  0]BlueprintLog: New page: Editor Load
+[2021.04.08-01.46.44:322][  0]LocalizationService: Localization service is disabled
+[2021.04.08-01.46.44:880][  0]TimingProfiler: Initialize
+[2021.04.08-01.46.44:882][  0]TimingProfiler: OnSessionChanged
+[2021.04.08-01.46.44:882][  0]LoadingProfiler: Initialize
+[2021.04.08-01.46.44:883][  0]LoadingProfiler: OnSessionChanged
+[2021.04.08-01.46.44:883][  0]NetworkingProfiler: Initialize
+[2021.04.08-01.46.44:884][  0]NetworkingProfiler: OnSessionChanged
+[2021.04.08-01.46.44:884][  0]MemoryProfiler: Initialize
+[2021.04.08-01.46.44:884][  0]MemoryProfiler: OnSessionChanged
+[2021.04.08-01.46.50:038][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/' took 0.04s
+[2021.04.08-01.46.50:038][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.04.08-01.46.50:038][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.08-01.46.57:506][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.04.08-01.46.57:789][  0]SourceControl: Source control is disabled
+[2021.04.08-01.46.57:838][  0]LogUnrealEdMisc: Loading editor; pre map load, took 224.151
+[2021.04.08-01.46.57:998][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.08-01.46.58:083][  0]LightingResults: New page: Lighting Build
+[2021.04.08-01.46.58:419][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.08-01.46.58:675][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-01.46.58:855][  0]MapCheck: New page: Map Check
+[2021.04.08-01.46.58:855][  0]LightingResults: New page: Lighting Build
+[2021.04.08-01.47.00:465][  0]LogUObjectHash: Compacting FUObjectHashTables data took  16.51ms
+[2021.04.08-01.47.03:973][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.04.08-01.47.03:998][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.08-01.47.05:576][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.08-01.47.06:204][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.04.08-01.47.06:276][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.08-01.47.06:336][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.794ms to complete.
+[2021.04.08-01.47.06:336][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 8.440
+[2021.04.08-01.47.08:900][  0]LogUnrealEdMisc: Total Editor Startup Time, took 235.230
+[2021.04.08-01.47.14:633][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.08-01.47.16:937][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-01.47.16:997][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-01.47.17:005][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-01.47.17:013][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-01.47.18:238][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0108 seconds. Added 3601 classes and 859 folders.
+[2021.04.08-01.47.18:550][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.08-01.47.18:814][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.08-01.47.18:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.18:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.08-01.47.18:836][  0]LogPakFile: OnPakFileMounted2Time == 0.022123
+[2021.04.08-01.47.18:971][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.08-01.47.18:971][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.18:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.08-01.47.18:971][  0]LogPakFile: OnPakFileMounted2Time == 0.022127
+[2021.04.08-01.47.18:991][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.08-01.47.18:992][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.18:992][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.08-01.47.18:992][  0]LogPakFile: OnPakFileMounted2Time == 0.022132
+[2021.04.08-01.47.18:996][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.08-01.47.18:996][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.18:996][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.08-01.47.18:996][  0]LogPakFile: OnPakFileMounted2Time == 0.022137
+[2021.04.08-01.47.18:999][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.08-01.47.18:999][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.18:999][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.08-01.47.18:999][  0]LogPakFile: OnPakFileMounted2Time == 0.022142
+[2021.04.08-01.47.19:001][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.08-01.47.19:001][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:001][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.08-01.47.19:001][  0]LogPakFile: OnPakFileMounted2Time == 0.022146
+[2021.04.08-01.47.19:004][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.08-01.47.19:004][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:004][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.08-01.47.19:004][  0]LogPakFile: OnPakFileMounted2Time == 0.022151
+[2021.04.08-01.47.19:006][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.08-01.47.19:006][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:006][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.08-01.47.19:006][  0]LogPakFile: OnPakFileMounted2Time == 0.022156
+[2021.04.08-01.47.19:013][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.08-01.47.19:013][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:013][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.08-01.47.19:013][  0]LogPakFile: OnPakFileMounted2Time == 0.022161
+[2021.04.08-01.47.19:016][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.08-01.47.19:016][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:016][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.08-01.47.19:016][  0]LogPakFile: OnPakFileMounted2Time == 0.022168
+[2021.04.08-01.47.19:028][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.08-01.47.19:028][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:028][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.08-01.47.19:028][  0]LogPakFile: OnPakFileMounted2Time == 0.022173
+[2021.04.08-01.47.19:031][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.08-01.47.19:031][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:031][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.08-01.47.19:031][  0]LogPakFile: OnPakFileMounted2Time == 0.022180
+[2021.04.08-01.47.19:035][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.08-01.47.19:035][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:036][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.08-01.47.19:036][  0]LogPakFile: OnPakFileMounted2Time == 0.022186
+[2021.04.08-01.47.19:039][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.08-01.47.19:039][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:039][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.08-01.47.19:039][  0]LogPakFile: OnPakFileMounted2Time == 0.022193
+[2021.04.08-01.47.19:042][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.08-01.47.19:042][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:042][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.08-01.47.19:042][  0]LogPakFile: OnPakFileMounted2Time == 0.022203
+[2021.04.08-01.47.19:045][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.08-01.47.19:045][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:045][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.08-01.47.19:045][  0]LogPakFile: OnPakFileMounted2Time == 0.022212
+[2021.04.08-01.47.19:049][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.08-01.47.19:049][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:049][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.08-01.47.19:049][  0]LogPakFile: OnPakFileMounted2Time == 0.022221
+[2021.04.08-01.47.19:051][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.08-01.47.19:051][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:051][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.08-01.47.19:052][  0]LogPakFile: OnPakFileMounted2Time == 0.022226
+[2021.04.08-01.47.19:054][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.08-01.47.19:055][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:055][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.08-01.47.19:055][  0]LogPakFile: OnPakFileMounted2Time == 0.022244
+[2021.04.08-01.47.19:057][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.08-01.47.19:057][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:058][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.08-01.47.19:058][  0]LogPakFile: OnPakFileMounted2Time == 0.022250
+[2021.04.08-01.47.19:060][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.08-01.47.19:060][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:060][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.08-01.47.19:060][  0]LogPakFile: OnPakFileMounted2Time == 0.022252
+[2021.04.08-01.47.19:062][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.08-01.47.19:062][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:062][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.08-01.47.19:062][  0]LogPakFile: OnPakFileMounted2Time == 0.022253
+[2021.04.08-01.47.19:065][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.08-01.47.19:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.08-01.47.19:065][  0]LogPakFile: OnPakFileMounted2Time == 0.022259
+[2021.04.08-01.47.19:067][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.08-01.47.19:068][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:068][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.08-01.47.19:068][  0]LogPakFile: OnPakFileMounted2Time == 0.022266
+[2021.04.08-01.47.19:071][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.08-01.47.19:071][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:071][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.08-01.47.19:071][  0]LogPakFile: OnPakFileMounted2Time == 0.022270
+[2021.04.08-01.47.19:073][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.08-01.47.19:073][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.08-01.47.19:073][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.08-01.47.19:073][  0]LogPakFile: OnPakFileMounted2Time == 0.022272
+[2021.04.08-01.47.19:907][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.04.08-01.47.20:221][  0]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.47.20:487][  0]LogSlate: Took 0.040670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.08-01.47.20:553][  0]LogSlate: Took 0.041290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.08-01.47.21:883][  0]LogRenderer: Reallocating scene render targets to support 900x908 Format 10 NumSamples 1 (Frame:1).
+[2021.04.08-01.47.23:238][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.04.08-01.47.23:238][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.04.08-01.47.23:239][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.04.08-01.47.23:239][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.04.08-01.47.23:239][  0]LogLoad: (Engine Initialization) Total time: 249.57 seconds
+[2021.04.08-01.47.23:239][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.08-01.47.23:255][  0]LogInit: First time updating LLM stats...
+[2021.04.08-01.47.24:462][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.08-01.47.25:923][  2]LogAssetRegistry: Asset discovery search completed in 149.8742 seconds
+[2021.04.08-01.47.25:995][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.015635 seconds (updated 0 objects)
+[2021.04.08-01.47.30:241][430]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2021.04.08-01.47.41:075][681]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.47.42:641][830]LogSlate: Took 0.017548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.08-01.47.43:007][830]LogSlate: Took 0.018018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.08-01.47.44:229][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.04.08-01.47.44:288][949]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.47.44:290][949]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.08-01.47.47:291][949]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Swamp.Swamp
+[2021.04.08-01.47.47:296][949]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Maps/Swamp.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.08-01.47.47:296][949]LightingResults: New page: Lighting Build
+[2021.04.08-01.47.47:296][949]LoadErrors: New page: Loading map: Swamp.umap
+[2021.04.08-01.47.47:440][949]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.08-01.47.47:578][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-01.47.47:601][949]MapCheck: New page: Map Check
+[2021.04.08-01.47.47:601][949]LightingResults: New page: Lighting Build
+[2021.04.08-01.47.47:722][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.08-01.47.47:944][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.04.08-01.47.47:949][949]LogAudio: Display: Audio Device (ID: 1) registered with world 'Swamp'.
+[2021.04.08-01.47.48:354][949]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.08-01.47.48:354][949]LogAIModule: Creating AISystem for world Swamp
+[2021.04.08-01.47.48:396][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.08-01.47.48:423][949]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.08-01.47.48:424][949]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2021.04.08-01.47.48:424][949]LogFileHelpers: Loading map 'Swamp' took 1.128
+[2021.04.08-01.50.13:279][ 84]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-01.50.19:362][554]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.50.23:086][910]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.50.24:051][  3]LogSlate: Took 0.016510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.08-01.50.34:756][930]Cmd: TRANSACTION UNDO
+[2021.04.08-01.50.34:756][930]LogEditorTransaction: Undo Select Brush Surface
+[2021.04.08-01.50.34:970][930]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.54.47:747][177]Cmd: TRANSACTION UNDO
+[2021.04.08-01.54.47:747][177]LogEditorTransaction: Undo Move Actors
+[2021.04.08-01.54.48:160][177]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.54.54:642][366]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.54.57:715][659]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.55.02:697][ 12]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-01.55.22:985][162]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-01.55.33:885][  1]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-01.55.44:162][963]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-01.55.55:305][892]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-01.56.13:362][642]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-01.57.09:068][618]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.57.10:323][729]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.57.11:928][825]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.57.13:013][896]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.04.08-01.57.27:235][880]LogEditorViewport: Clicking Background
+[2021.04.08-01.57.49:557][384]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.58.03:725][167]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-01.58.16:238][936]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-01.58.20:372][171]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-01.58.21:508][230]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.58.26:790][473]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-01.58.28:669][591]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.58.32:656][828]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-01.58.35:775][980]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-01.58.37:700][104]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.58.41:000][293]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-01.58.42:649][360]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-01.58.44:040][438]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.58.47:328][623]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-01.58.55:870][211]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.58.57:123][315]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.59.19:613][743]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.59.23:866][963]Cmd: DELETE
+[2021.04.08-01.59.24:274][963]Cmd: ACTOR DELETE
+[2021.04.08-01.59.24:889][963]LogEditorActor: Deleted Actor: Brush
+[2021.04.08-01.59.25:068][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.04.08-01.59.25:424][963]LogEditorActor: Deleted 1 Actors (0.701 secs)
+[2021.04.08-01.59.27:402][ 76]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-01.59.28:769][142]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-01.59.29:753][224]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.00.04:253][402]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.00.07:309][565]Cmd: TRANSACTION UNDO
+[2021.04.08-02.00.07:309][565]LogEditorTransaction: Undo Move Actors
+[2021.04.08-02.00.07:720][565]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.00.08:301][574]Cmd: TRANSACTION UNDO
+[2021.04.08-02.00.08:301][574]LogEditorTransaction: Undo Brush Set
+[2021.04.08-02.00.08:729][574]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/Swamp.Swamp:PersistentLevel.Brush_7.BrushComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.04.08-02.00.12:097][759]Cmd: TRANSACTION REDO
+[2021.04.08-02.00.12:097][759]LogEditorTransaction: Redo Brush Set
+[2021.04.08-02.00.12:918][759]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.626 s
+[2021.04.08-02.00.12:918][759]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.626 s
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: === Handled ensure: ===
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: === Handled ensure: ===
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: 
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: 
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/SceneManagement.cpp] [Line: 1133]
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/SceneManagement.cpp] [Line: 1133]
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: FMeshBatch was not properly setup. MeshBatchElement 0, Material 'WorldGridMaterial', index range extends past index buffer bounds: Start 210, Count 27, Buffer Size 840, Buffer stride 4.
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: FMeshBatch was not properly setup. MeshBatchElement 0, Material 'M_Brick_Cut_Stone', index range extends past index buffer bounds: Start 9186, Count 84, Buffer Size 37008, Buffer stride 4.
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: 	VertexFactory[Name: FLocalVertexFactory, Initialized: 1]
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: 	VertexFactory[Name: FLocalVertexFactory, Initialized: 1]
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: 	PrimitiveSceneProxy[Level: None, Owner: BSP, Resource: None]
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: 	PrimitiveSceneProxy[Level: None, Owner: BSP, Resource: None]
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: Stack: 
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: Stack: 
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff795828c4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff795828c4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff789ceda4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff789ceda4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff78a2464d UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff78a2464d UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff6696da82 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff6696da82 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff785d0def UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff785d0def UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff6695437a UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff6695437a UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff6697be3a UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff6697be3a UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff6696f99a UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff6696f99a UE4Editor-Renderer.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff7b13df29 UE4Editor-Core.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff7b13f190 UE4Editor-Core.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff7b13df29 UE4Editor-Core.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff7b1464c5 UE4Editor-Core.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff7b13f190 UE4Editor-Core.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff7b6989eb UE4Editor-Core.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff7b1464c5 UE4Editor-Core.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff7b691680 UE4Editor-Core.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff7b6989eb UE4Editor-Core.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007ff806187c24 KERNEL32.DLL!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007fff7b691680 UE4Editor-Core.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007ff806a0d721 ntdll.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007ff806187c24 KERNEL32.DLL!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: 
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: [Callstack] 0x00007ff806a0d721 ntdll.dll!UnknownFunction []
+[2021.04.08-02.00.12:919][759]LogOutputDevice: Error: 
+[2021.04.08-02.00.12:919][759]LogStats:                SubmitErrorReport -  0.000 s
+[2021.04.08-02.00.12:919][759]LogStats:                SubmitErrorReport -  0.000 s
+[2021.04.08-02.00.26:982][759]LogStats:                    SendNewReport - 14.063 s
+[2021.04.08-02.00.26:982][759]LogStats:             FDebug::EnsureFailed - 14.690 s
+[2021.04.08-02.00.34:305][759]LogStats:                    SendNewReport - 21.386 s
+[2021.04.08-02.00.34:305][759]LogStats:             FDebug::EnsureFailed - 22.013 s
+[2021.04.08-02.00.34:546][759]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.00.34:559][759]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.00.35:062][759]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.00.38:324][929]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.00.38:423][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.04.08-02.00.39:116][929]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Swamp_Auto175A8907440610ED253F357B6289FC0E7.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Autosaves/Game/Maps/Swamp_Auto1.umap'
+[2021.04.08-02.00.39:444][929]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Swamp' took 1.036
+[2021.04.08-02.00.39:444][929]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.036
+[2021.04.08-02.00.39:745][940]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.00.44:961][272]LogEditorViewport: Clicking Background
+[2021.04.08-02.01.00:034][270]Cmd: TRANSACTION UNDO
+[2021.04.08-02.01.00:034][270]LogEditorTransaction: Undo Select Brush Surface
+[2021.04.08-02.01.00:088][270]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.01.16:061][549]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.01.30:132][457]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.01.34:658][774]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.01.36:262][903]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush32)
+[2021.04.08-02.01.36:901][956]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.01.38:369][ 86]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush32)
+[2021.04.08-02.01.39:697][186]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.01.41:107][294]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.01.45:537][615]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.01.49:440][896]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.01.50:912][994]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.01.53:617][173]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.02.12:456][413]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.02.43:698][652]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.02.49:404][127]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.02.53:053][381]LogEditorViewport: Clicking Background
+[2021.04.08-02.03.56:453][593]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.04.12:417][234]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.04.40:016][693]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.05.09:231][348]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.05.31:790][854]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.05.32:664][905]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.05.36:391][156]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.05.38:153][252]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.05.53:011][143]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.05.55:070][268]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.05.59:604][502]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.06.18:241][612]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.06.21:766][912]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.06.49:073][470]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.06.51:887][715]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.07.10:619][771]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.07.12:071][821]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.07.13:223][871]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.07.16:891][108]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.07.17:620][139]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.07.22:282][448]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.07.33:737][279]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.07.37:624][545]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.07.43:875][ 78]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.08.02:009][ 52]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.08.03:454][165]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.08.04:704][264]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.08.05:935][355]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.08.09:085][554]LogEditorViewport: Clicking Background
+[2021.04.08-02.08.10:973][742]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.08.24:961][807]Cmd: TRANSACTION UNDO
+[2021.04.08-02.08.24:961][807]LogEditorTransaction: Undo Move Actors
+[2021.04.08-02.08.25:555][807]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.08.29:560][988]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.08.44:567][239]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.09.15:695][293]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.09.16:564][370]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.09.22:687][989]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.09.29:508][518]LogEditorViewport: Clicking Background
+[2021.04.08-02.11.23:988][215]LogEditorViewport: Clicking Background
+[2021.04.08-02.11.29:196][740]LogEditorViewport: Clicking Background
+[2021.04.08-02.11.29:399][760]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.12.13:161][ 35]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.12.29:290][155]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.12.50:740][439]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.13.06:715][513]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.13.24:542][471]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.13.27:461][656]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.13.29:142][718]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.13.33:647][981]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.13.35:534][ 98]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.13.38:967][294]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.13.39:826][331]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.13.43:464][565]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.13.45:152][655]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.13.46:976][763]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.13.52:667][177]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.13.57:993][658]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.14.01:352][934]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.14.06:292][351]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.14.10:172][721]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.14.41:228][171]LogEditorViewport: Clicking Background
+[2021.04.08-02.14.42:504][285]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.14.52:910][951]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.15.03:223][566]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.15.06:546][804]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.15.07:258][854]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.15.22:250][465]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.15.35:191][738]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.15.36:280][831]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.15.39:517][105]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.15.50:337][891]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.16.00:848][862]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.16.02:979][ 50]Cmd: POLY SELECT MATCHING BRUSH
+[2021.04.08-02.16.03:956][124]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.16.05:910][273]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.16.07:836][415]Cmd: EDIT COPY
+[2021.04.08-02.16.08:074][421]Cmd: EDIT PASTE
+[2021.04.08-02.16.10:769][522]Cmd: SELECT NONE
+[2021.04.08-02.16.19:742][272]Cmd: EDIT PASTE
+[2021.04.08-02.16.28:674][931]Cmd: EDIT PASTE
+[2021.04.08-02.16.41:797][192]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.16.48:773][876]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.17.09:200][345]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.17.17:899][371]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.17.18:035][374]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.17.18:212][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.04.08-02.17.18:481][374]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Swamp_Auto24FF52D5D43679CC869C9FB839168D7EC.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Autosaves/Game/Maps/Swamp_Auto2.umap'
+[2021.04.08-02.17.18:515][374]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Swamp' took 0.451
+[2021.04.08-02.17.18:515][374]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.451
+[2021.04.08-02.17.35:856][995]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.17.36:709][ 62]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.08-02.17.52:087][347]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.17.54:779][592]Cmd: EDIT COPY
+[2021.04.08-02.17.55:041][616]Cmd: EDIT PASTE
+[2021.04.08-02.18.03:547][132]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.18.05:125][257]LogEditorViewport: Clicking on Actor (LMB): Brush (Sphere Brush7)
+[2021.04.08-02.18.11:872][792]Cmd: EDIT PASTE
+[2021.04.08-02.18.19:227][371]Cmd: EDIT PASTE
+[2021.04.08-02.18.31:165][200]Cmd: EDIT PASTE
+[2021.04.08-02.18.57:907][513]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.19.03:939][ 58]Cmd: EDIT COPY
+[2021.04.08-02.19.04:190][ 85]Cmd: EDIT PASTE
+[2021.04.08-02.19.14:420][854]Cmd: EDIT PASTE
+[2021.04.08-02.19.28:527][982]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.19.40:802][186]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.19.41:361][229]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.08-02.19.49:351][841]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.19.55:982][413]Cmd: EDIT COPY
+[2021.04.08-02.19.56:208][435]Cmd: EDIT PASTE
+[2021.04.08-02.20.02:305][816]Cmd: EDIT PASTE
+[2021.04.08-02.20.10:110][387]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.20.17:040][962]Cmd: EDIT PASTE
+[2021.04.08-02.20.25:725][684]Cmd: EDIT PASTE
+[2021.04.08-02.20.33:951][204]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.20.41:568][817]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.08-02.20.41:796][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.08-02.20.41:876][817]PIE: New page: PIE session: Swamp (Apr 7, 2021, 6:20:41 PM)
+[2021.04.08-02.20.42:043][817]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.08-02.20.42:046][817]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.08-02.20.42:071][817]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Swamp
+[2021.04.08-02.20.42:365][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.284333s)
+[2021.04.08-02.20.42:384][817]LogAIModule: Creating AISystem for world Swamp
+[2021.04.08-02.20.42:406][817]LogPlayLevel: PIE: World Init took: (0.039693s)
+[2021.04.08-02.20.42:423][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Swamp.Swamp to /Game/Maps/UEDPIE_0_Swamp.Swamp (0.351953s)
+[2021.04.08-02.20.42:509][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.04.08-02.20.42:524][817]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.08-02.20.42:524][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.08-02.20.42:524][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.08-02.20.42:524][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.08-02.20.42:525][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.08-02.20.42:525][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.08-02.20.42:525][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.08-02.20.42:525][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.08-02.20.42:525][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.08-02.20.42:525][817]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.08-02.20.42:525][817]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.08-02.20.42:534][817]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-02.20.42:534][817]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-02.20.42:574][817]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.08-02.20.42:574][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.08-02.20.42:574][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.08-02.20.42:574][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.08-02.20.42:575][817]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.08-02.20.42:575][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.08-02.20.42:575][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.08-02.20.42:592][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.08-02.20.42:592][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.08-02.20.42:592][817]LogInit: FAudioDevice initialized.
+[2021.04.08-02.20.42:592][817]LogAudio: Display: Audio Device (ID: 2) registered with world 'Swamp'.
+[2021.04.08-02.20.42:656][817]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.08-02.20.42:989][817]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Swamp.Swamp up for play (max tick rate 0) at 2021.04.07-22.20.42
+[2021.04.08-02.20.43:043][817]LogWorld: Bringing up level for play took: 0.129004
+[2021.04.08-02.20.43:084][817]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.04.08-02.20.43:358][817]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.04.08-02.20.43:541][817]PIE: Server logged in
+[2021.04.08-02.20.43:609][817]PIE: Play in editor total start time 2.021 seconds.
+[2021.04.08-02.22.16:225][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-02.22.16:225][597]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Swamp
+[2021.04.08-02.22.16:285][597]LogWorld: UWorld::CleanupWorld for Swamp, bSessionEnded=true, bCleanupResources=true
+[2021.04.08-02.22.16:300][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-02.22.16:423][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.08-02.22.16:452][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-02.22.16:484][597]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.08-02.22.16:549][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.08-02.22.16:552][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.08-02.22.16:654][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-02.22.16:753][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.04.08-02.22.16:816][598]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.04.08-02.22.20:731][997]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.22.20:754][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Swamp" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Maps/Swamp.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.08-02.22.20:765][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.04.08-02.22.21:063][997]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/SwampCF7695C3487BA5ACFCE276BF577F5BA0.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Maps/Swamp.umap'
+[2021.04.08-02.22.21:495][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Swamp_BuiltData" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Maps/Swamp_BuiltData.uasset" SILENT=true
+[2021.04.08-02.22.21:574][997]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Swamp_BuiltDataFCFF1D504042F8778B3150AB8FB75BA2.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Maps/Swamp_BuiltData.uasset'
+[2021.04.08-02.22.21:867][997]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-02.22.21:867][997]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Swamp_BuiltData.Swamp_BuiltData
+[2021.04.08-02.22.21:871][997]LogContentValidation: Display: Validating World /Game/Maps/Swamp.Swamp
+[2021.04.08-02.23.53:424][824]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.23.53:519][824]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\bushes\bush .png)
+[2021.04.08-02.23.53:624][824]LogTexture: Display: Building textures: bush_ (AutoDXT, 128X128)
+[2021.04.08-02.23.53:748][824]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\bushes\bush2.png)
+[2021.04.08-02.23.53:750][824]LogTexture: Display: Building textures: bush2 (AutoDXT, 128X128)
+[2021.04.08-02.23.53:761][824]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\bushes\bush3.png)
+[2021.04.08-02.23.53:763][824]LogTexture: Display: Building textures: bush3 (AutoDXT, 128X128)
+[2021.04.08-02.23.53:774][824]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\bushes\LARGEbush4.png)
+[2021.04.08-02.23.53:776][824]LogTexture: Display: Building textures: LARGEbush4 (BGRA8, 130X130)
+[2021.04.08-02.23.56:254][832]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.23.56:734][884]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.23.57:913][  9]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.01:534][425]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.07:003][851]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.10:900][124]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.11:068][124]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.11:187][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/bush2_Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/bush2_Sprite.uasset" SILENT=true
+[2021.04.08-02.24.11:240][124]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/bush2_SpriteD7B672B34B016F779210679F60565B45.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/bush2_Sprite.uasset'
+[2021.04.08-02.24.11:247][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/bush3_Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/bush3_Sprite.uasset" SILENT=true
+[2021.04.08-02.24.11:265][124]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/bush3_Sprite68E689F449E12D8C5A7FE9AB6271E021.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/bush3_Sprite.uasset'
+[2021.04.08-02.24.11:272][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/bush__Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/bush__Sprite.uasset" SILENT=true
+[2021.04.08-02.24.11:280][124]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/bush__SpriteE538E80B4D3EA1C5619FB08BC94E60DD.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/bush__Sprite.uasset'
+[2021.04.08-02.24.11:287][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/LARGEbush4_Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/LARGEbush4_Sprite.uasset" SILENT=true
+[2021.04.08-02.24.11:301][124]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/LARGEbush4_Sprite43F4BF0A4AFF6AC0BEA67FBA3BEC11BF.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/LARGEbush4_Sprite.uasset'
+[2021.04.08-02.24.11:336][124]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.11:444][124]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.11:486][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.04.08-02.24.11:498][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.08-02.24.11:505][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.04.08-02.24.11:513][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.08-02.24.11:531][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.04.08-02.24.11:539][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.08-02.24.11:661][124]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.11:670][124]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-02.24.11:671][124]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/LARGEbush4_Sprite.LARGEbush4_Sprite
+[2021.04.08-02.24.11:671][124]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/bush__Sprite.bush__Sprite
+[2021.04.08-02.24.11:671][124]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/bush3_Sprite.bush3_Sprite
+[2021.04.08-02.24.11:671][124]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/bush2_Sprite.bush2_Sprite
+[2021.04.08-02.24.20:334][717]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.20:349][717]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\fallen branches\branch 2.png)
+[2021.04.08-02.24.20:351][717]LogTexture: Display: Building textures: branch_2 (BGRA8, 126X126)
+[2021.04.08-02.24.20:358][717]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\fallen branches\fallen branch .png)
+[2021.04.08-02.24.20:360][717]LogTexture: Display: Building textures: fallen_branch_ (BGRA8, 126X126)
+[2021.04.08-02.24.23:109][882]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.23:673][937]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.25:911][185]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.27:496][369]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.28:117][441]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.28:175][441]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.28:203][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/branch_2_Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/branch_2_Sprite.uasset" SILENT=true
+[2021.04.08-02.24.28:211][441]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/branch_2_Sprite86DEB672403F7F455E918BADBF2EEAE5.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/branch_2_Sprite.uasset'
+[2021.04.08-02.24.28:218][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/fallen_branch__Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/fallen_branch__Sprite.uasset" SILENT=true
+[2021.04.08-02.24.28:231][441]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/fallen_branch__Sprite26F25DB1490C25C02DC539B5E406109B.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/fallen_branch__Sprite.uasset'
+[2021.04.08-02.24.28:239][441]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.28:279][441]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.28:305][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.04.08-02.24.28:316][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.08-02.24.28:331][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.04.08-02.24.28:337][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.04.08-02.24.28:431][441]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.28:444][441]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-02.24.28:444][441]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/fallen_branch__Sprite.fallen_branch__Sprite
+[2021.04.08-02.24.28:444][441]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/branch_2_Sprite.branch_2_Sprite
+[2021.04.08-02.24.33:830][615]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.33:854][615]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\grass clumps\grass clump 2.png)
+[2021.04.08-02.24.33:855][615]LogTexture: Display: Building textures: grass_clump_2 (BGRA8, 126X126)
+[2021.04.08-02.24.33:863][615]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\grass clumps\grass clumps 3.png)
+[2021.04.08-02.24.33:865][615]LogTexture: Display: Building textures: grass_clumps_3 (BGRA8, 126X126)
+[2021.04.08-02.24.33:871][615]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\grass clumps\grassclump.png)
+[2021.04.08-02.24.33:873][615]LogTexture: Display: Building textures: grassclump (BGRA8, 126X126)
+[2021.04.08-02.24.36:948][753]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.37:696][835]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.40:318][137]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.41:321][252]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.42:133][346]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.42:220][346]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.42:242][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/grass_clump_2_Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/grass_clump_2_Sprite.uasset" SILENT=true
+[2021.04.08-02.24.42:275][346]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/grass_clump_2_Sprite3624567440AE7E8AA14B45AF9EE99145.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/grass_clump_2_Sprite.uasset'
+[2021.04.08-02.24.42:282][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/grass_clumps_3_Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/grass_clumps_3_Sprite.uasset" SILENT=true
+[2021.04.08-02.24.42:309][346]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/grass_clumps_3_Sprite62EA42F24012F14400DC67A205FB89DF.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/grass_clumps_3_Sprite.uasset'
+[2021.04.08-02.24.42:316][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/grassclump_Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/grassclump_Sprite.uasset" SILENT=true
+[2021.04.08-02.24.42:326][346]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/grassclump_Sprite5078735042076DF32D647281E196EEC1.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/grassclump_Sprite.uasset'
+[2021.04.08-02.24.42:335][346]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.42:375][346]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.42:392][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.04.08-02.24.42:402][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.04.08-02.24.42:409][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.08-02.24.42:432][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.04.08-02.24.42:440][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.08-02.24.42:537][346]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.42:548][346]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-02.24.42:548][346]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/grassclump_Sprite.grassclump_Sprite
+[2021.04.08-02.24.42:548][346]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/grass_clumps_3_Sprite.grass_clumps_3_Sprite
+[2021.04.08-02.24.42:548][346]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/grass_clump_2_Sprite.grass_clump_2_Sprite
+[2021.04.08-02.24.47:754][494]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.47:771][494]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\leaves\leaf cluster 1.png)
+[2021.04.08-02.24.47:772][494]LogTexture: Display: Building textures: leaf_cluster_1 (AutoDXT, 100X100)
+[2021.04.08-02.24.47:777][494]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\leaves\leaf cluster 2.png)
+[2021.04.08-02.24.47:779][494]LogTexture: Display: Building textures: leaf_cluster_2 (AutoDXT, 100X100)
+[2021.04.08-02.24.49:143][501]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.49:584][541]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.50:536][653]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.52:064][826]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.53:131][950]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.54:588][115]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.54:652][115]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.54:680][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/leaf_cluster_1_Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/leaf_cluster_1_Sprite.uasset" SILENT=true
+[2021.04.08-02.24.54:689][115]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/leaf_cluster_1_SpriteCA0997464CF85C010C8E74B0B4028DCE.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/leaf_cluster_1_Sprite.uasset'
+[2021.04.08-02.24.54:698][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/leaf_cluster_2_Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/leaf_cluster_2_Sprite.uasset" SILENT=true
+[2021.04.08-02.24.54:708][115]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/leaf_cluster_2_SpriteB7C324D6430E216011BD068DFD206F8C.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/leaf_cluster_2_Sprite.uasset'
+[2021.04.08-02.24.54:717][115]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.54:758][115]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.54:781][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.04.08-02.24.54:789][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.04.08-02.24.54:805][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.04.08-02.24.54:812][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.04.08-02.24.54:908][115]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.54:921][115]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-02.24.54:921][115]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/leaf_cluster_2_Sprite.leaf_cluster_2_Sprite
+[2021.04.08-02.24.54:921][115]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/leaf_cluster_1_Sprite.leaf_cluster_1_Sprite
+[2021.04.08-02.24.59:183][224]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.24.59:192][224]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\rocks\biggerrocks.png)
+[2021.04.08-02.24.59:194][224]LogTexture: Display: Building textures: biggerrocks (AutoDXT, 128X128)
+[2021.04.08-02.24.59:206][224]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\rocks\boulder .png)
+[2021.04.08-02.24.59:210][224]LogTexture: Display: Building textures: boulder_ (AutoDXT, 300X300)
+[2021.04.08-02.24.59:240][224]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\rocks\lilrockF.png)
+[2021.04.08-02.24.59:241][224]LogTexture: Display: Building textures: lilrockF (AutoDXT, 128X128)
+[2021.04.08-02.25.00:258][233]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.01:022][309]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.02:670][488]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.03:468][579]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.04:217][666]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.04:289][666]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.04:314][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/biggerrocks_Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/biggerrocks_Sprite.uasset" SILENT=true
+[2021.04.08-02.25.04:336][666]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/biggerrocks_SpriteC61C4FE544A2D41F1845E5B5D7FCE4BE.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/biggerrocks_Sprite.uasset'
+[2021.04.08-02.25.04:343][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/boulder__Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/boulder__Sprite.uasset" SILENT=true
+[2021.04.08-02.25.04:370][666]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/boulder__Sprite7D38BA1347E28636231BEDB35E88B14A.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/boulder__Sprite.uasset'
+[2021.04.08-02.25.04:377][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/lilrockF_Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/lilrockF_Sprite.uasset" SILENT=true
+[2021.04.08-02.25.04:389][666]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/lilrockF_SpriteB687952F4264A9C0DA9720BFA5A94545.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/lilrockF_Sprite.uasset'
+[2021.04.08-02.25.04:406][666]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.04:447][666]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.04:466][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.04.08-02.25.04:475][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.04.08-02.25.04:484][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.04.08-02.25.04:497][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.08-02.25.04:505][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.04.08-02.25.04:600][666]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.04:610][666]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-02.25.04:610][666]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/lilrockF_Sprite.lilrockF_Sprite
+[2021.04.08-02.25.04:610][666]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/boulder__Sprite.boulder__Sprite
+[2021.04.08-02.25.04:610][666]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/biggerrocks_Sprite.biggerrocks_Sprite
+[2021.04.08-02.25.12:677][996]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.12:703][996]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\tree\log.png)
+[2021.04.08-02.25.12:705][996]LogTexture: Display: Building textures: log (AutoDXT, 64X512)
+[2021.04.08-02.25.12:722][996]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Brennen\Downloads\emmas swamp-20210408T022305Z-001\emmas swamp\tree\trees.png)
+[2021.04.08-02.25.12:799][996]LogTexture: Display: Building textures: trees (AutoDXT, 2048X2048)
+[2021.04.08-02.25.15:331][  2]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.16:141][ 92]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.16:664][153]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.17:330][220]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.18:488][351]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.18:594][351]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.18:626][351]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.19:143][351]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.19:172][351]LogSlate: Took 0.020971 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.08-02.25.24:740][921]LogSlate: Window 'Extract sprites' being destroyed
+[2021.04.08-02.25.25:594][ 10]LogSlate: Window 'Extract sprites' being destroyed
+[2021.04.08-02.25.26:532][113]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.26:817][134]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.28:375][306]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.29:422][429]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.30:169][515]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.30:233][515]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.30:256][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/log_Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/log_Sprite.uasset" SILENT=true
+[2021.04.08-02.25.30:310][515]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/log_Sprite345B88A14AFDFAFFB200738BD824EF2C.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/log_Sprite.uasset'
+[2021.04.08-02.25.30:317][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/trees_Sprite" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/trees_Sprite.uasset" SILENT=true
+[2021.04.08-02.25.30:328][515]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/trees_Sprite35953E6A46F88489F52161BEDDE25B90.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/trees_Sprite.uasset'
+[2021.04.08-02.25.30:337][515]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.30:369][515]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.30:420][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.04.08-02.25.30:432][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.04.08-02.25.30:448][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.04.08-02.25.30:456][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.04.08-02.25.30:549][515]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.30:556][515]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-02.25.30:556][515]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/trees_Sprite.trees_Sprite
+[2021.04.08-02.25.30:556][515]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/log_Sprite.log_Sprite
+[2021.04.08-02.25.42:294][543]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.25.54:764][803]Cmd: EDIT COPY
+[2021.04.08-02.25.54:972][822]Cmd: EDIT PASTE
+[2021.04.08-02.26.12:730][682]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (log_Sprite)
+[2021.04.08-02.26.13:758][792]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (log_Sprite2)
+[2021.04.08-02.26.14:388][858]Cmd: EDIT COPY
+[2021.04.08-02.26.14:637][885]Cmd: EDIT PASTE
+[2021.04.08-02.26.34:045][951]Cmd: EDIT COPY
+[2021.04.08-02.26.34:287][978]Cmd: EDIT PASTE
+[2021.04.08-02.26.52:045][840]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.26.55:858][224]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (log_Sprite4)
+[2021.04.08-02.27.10:444][750]Cmd: EDIT COPY
+[2021.04.08-02.27.10:688][776]Cmd: EDIT PASTE
+[2021.04.08-02.27.40:800][730]Cmd: DELETE
+[2021.04.08-02.27.40:800][730]Cmd: ACTOR DELETE
+[2021.04.08-02.27.40:848][730]LogEditorActor: Deleted Actor: Brush
+[2021.04.08-02.27.40:858][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.04.08-02.27.41:379][730]LogEditorActor: Deleted 1 Actors (0.579 secs)
+[2021.04.08-02.27.43:922][947]Cmd: DELETE
+[2021.04.08-02.27.43:922][947]Cmd: ACTOR DELETE
+[2021.04.08-02.27.43:972][947]LogEditorActor: Deleted Actor: Brush
+[2021.04.08-02.27.43:981][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.04.08-02.27.44:480][947]LogEditorActor: Deleted 1 Actors (0.558 secs)
+[2021.04.08-02.27.46:388][ 79]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (log_Sprite12)
+[2021.04.08-02.27.51:425][436]Cmd: TRANSACTION UNDO
+[2021.04.08-02.27.51:425][436]LogEditorTransaction: Undo Move Actors
+[2021.04.08-02.27.51:430][436]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.28.00:103][267]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.08-02.28.04:636][585]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.28.04:648][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Swamp" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Maps/Swamp.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.08-02.28.04:658][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.04.08-02.28.04:933][585]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Swamp6F0F41004172F2FCFBAB979CD65F0725.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Maps/Swamp.umap'
+[2021.04.08-02.28.04:963][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Swamp_BuiltData" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Maps/Swamp_BuiltData.uasset" SILENT=true
+[2021.04.08-02.28.04:986][585]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Swamp_BuiltData41BC0EC540466E4426739794AB303154.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Maps/Swamp_BuiltData.uasset'
+[2021.04.08-02.28.05:000][585]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-02.28.05:000][585]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Swamp_BuiltData.Swamp_BuiltData
+[2021.04.08-02.28.05:000][585]LogContentValidation: Display: Validating World /Game/Maps/Swamp.Swamp
+[2021.04.08-02.28.06:141][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.04.08-02.28.06:225][664]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.28.08:031][664]LogSlate: Window 'Save Content' being destroyed
+[2021.04.08-02.28.08:048][664]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.08-02.28.08:102][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/biggerrocksD28B26C04D72D28F1CE4748769A6642E.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/biggerrocks.uasset'
+[2021.04.08-02.28.08:106][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/SourceTextures/boulder_" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/boulder_.uasset" SILENT=true
+[2021.04.08-02.28.08:119][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/boulder_2FF7D0A34E15009E1F7510AD6A240791.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/boulder_.uasset'
+[2021.04.08-02.28.08:121][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/SourceTextures/branch_2" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/branch_2.uasset" SILENT=true
+[2021.04.08-02.28.08:202][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/branch_21C088C254A12CFE737840B893D927983.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/branch_2.uasset'
+[2021.04.08-02.28.08:204][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/SourceTextures/bush2" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/bush2.uasset" SILENT=true
+[2021.04.08-02.28.08:211][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/bush22FDEA7FD4C979700DEE0608C2C08537E.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/bush2.uasset'
+[2021.04.08-02.28.08:213][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/SourceTextures/bush3" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/bush3.uasset" SILENT=true
+[2021.04.08-02.28.08:223][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/bush3E273857E440C7080716B0E8EC3C5A231.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/bush3.uasset'
+[2021.04.08-02.28.08:225][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/SourceTextures/bush_" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/bush_.uasset" SILENT=true
+[2021.04.08-02.28.08:233][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/bush_8CEACEEE443619545BF6A9ABC2545F6C.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/bush_.uasset'
+[2021.04.08-02.28.08:243][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/fallen_branch_5D0569924C35C4C02C7787ACF8F9EBF7.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/fallen_branch_.uasset'
+[2021.04.08-02.28.08:253][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/grass_clump_2A1BD2E834E2C836F5EE033A20DFF071B.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/grass_clump_2.uasset'
+[2021.04.08-02.28.08:263][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/grass_clumps_3738A9EF74B9C0C565D5B539B65D57C85.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/grass_clumps_3.uasset'
+[2021.04.08-02.28.08:282][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/grassclump7BEE0A6C47580737254061B8930F0458.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/grassclump.uasset'
+[2021.04.08-02.28.08:293][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/LARGEbush4D905B2AD4741F7841D3106AC229E8A2A.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/LARGEbush4.uasset'
+[2021.04.08-02.28.08:302][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/leaf_cluster_1A418F08C4D0DBA79DE2AFE998E3A7D02.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/leaf_cluster_1.uasset'
+[2021.04.08-02.28.08:312][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/leaf_cluster_2039A6030491BDE038AD7CAA3276CB41A.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/leaf_cluster_2.uasset'
+[2021.04.08-02.28.08:314][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/SourceTextures/lilrockF" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/lilrockF.uasset" SILENT=true
+[2021.04.08-02.28.08:321][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/lilrockF224FB9574B4A6F9E4C75189410C3B4EC.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/lilrockF.uasset'
+[2021.04.08-02.28.08:323][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/SourceTextures/log" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/log.uasset" SILENT=true
+[2021.04.08-02.28.08:332][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/log8C4BB45143282DBC211C75A270EABF10.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/log.uasset'
+[2021.04.08-02.28.08:337][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/SourceTextures/trees" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/trees.uasset" SILENT=true
+[2021.04.08-02.28.08:490][664]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/treesBDFD16D24643F1B3B66830BB165693C0.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/SourceTextures/trees.uasset'
+[2021.04.08-02.28.08:661][664]LogSlate: Window 'A_Mouse_Tale - Unreal Editor' being destroyed
+[2021.04.08-02.28.08:662][664]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.08-02.28.09:706][664]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/branch_2.branch_2
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/grass_clumps_3.grass_clumps_3
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/log.log
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/leaf_cluster_1.leaf_cluster_1
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/trees.trees
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/grass_clump_2.grass_clump_2
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/lilrockF.lilrockF
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/boulder_.boulder_
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/leaf_cluster_2.leaf_cluster_2
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/LARGEbush4.LARGEbush4
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/biggerrocks.biggerrocks
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/bush3.bush3
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/bush2.bush2
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/bush_.bush_
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/grassclump.grassclump
+[2021.04.08-02.28.09:706][664]LogContentValidation: Display: Validating Texture2D /Game/Sprites/SourceTextures/fallen_branch_.fallen_branch_
+[2021.04.08-02.28.09:713][665]Cmd: QUIT_EDITOR
+[2021.04.08-02.28.09:713][665]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.04.08-02.28.09:950][665]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.04.08-02.28.10:565][665]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.04.08-02.28.10:565][665]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.04.08-02.28.10:565][665]LogAudio: Display: Audio Device unregistered from world 'Swamp'.
+[2021.04.08-02.28.10:565][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.08-02.28.10:566][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.08-02.28.10:608][665]LogAudio: Display: Audio Device Manager Shutdown
+[2021.04.08-02.28.10:658][665]LogExit: Preparing to exit.
+[2021.04.08-02.28.13:304][665]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.04.08-02.28.13:591][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A7400] Windows
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A7300] Default__DeviceProfile
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A0E00] WindowsNoEditor
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A4D00] WindowsServer
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A2F00] WindowsClient
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A6D00] IOS
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A1600] iPadAir
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A5400] iPadAir2
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC658A00] IPadPro
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC658B00] iPadAir3
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A6800] iPadAir4
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC65B700] iPadMini2
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A5800] iPadMini3
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC65A100] iPadMini4
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A7A00] iPadMini5
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A0C00] iPhone6
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A3000] iPodTouch6
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC658D00] iPhone7
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC65A300] iPodTouch7
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A3900] iPhone5S
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC65AD00] iPhone6Plus
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A3200] iPhone6S
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC65B900] iPhone6SPlus
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A0400] iPhone7Plus
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC659600] iPhoneSE
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A2C00] iPhone8
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC65AA00] iPhone8Plus
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A2600] iPhoneX
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC659700] iPhoneXS
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A3F00] iPhoneXSMax
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC658100] iPhoneXR
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A1200] iPhone11
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC65BA00] iPhone11Pro
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A0200] iPhone11ProMax
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC659A00] iPhoneSE2
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A1100] iPhone12Mini
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC65A200] iPhone12
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A2700] iPhone12Pro
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC658600] iPhone12ProMax
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A3800] iPadPro105
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC659000] iPadPro129
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A2B00] iPadPro97
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC659400] iPadPro2_129
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A3D00] iPad5
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC659F00] iPad6
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A0A00] iPad7
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC65B300] iPad8
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A2000] iPadPro11
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC658400] iPadPro2_11
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A3500] iPadPro3_129
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC658E00] iPadPro4_129
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A2200] AppleTV
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC659200] AppleTV4K
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A1000] TVOS
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC65A900] Mac
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A2800] MacClient
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC659C00] MacNoEditor
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A1700] MacServer
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC659E00] Linux
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A4600] LinuxNoEditor
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FB5C5B00] LinuxAArch64NoEditor
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A6500] LinuxClient
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FB5C4100] LinuxAArch64Client
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A5A00] LinuxServer
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FB5C4700] LinuxAArch64Server
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A5B00] Android
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FB5C5300] Android_Low
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A6600] Android_Mid
+[2021.04.08-02.28.13:592][665]LogDeviceProfile: Device profile begin destroy: [00000281FB5C5400] Android_High
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A5200] Android_Default
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FB5C5100] Android_Adreno4xx
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A4900] Android_Adreno5xx_Low
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FB5C5700] Android_Adreno5xx
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A7F00] Android_Adreno6xx
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FB5C4B00] Android_Adreno6xx_Vulkan
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC65B800] Android_Mali_T6xx
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A2100] Android_Mali_T7xx
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC659100] Android_Mali_T8xx
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A1E00] Android_Mali_G71
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC658800] Android_Mali_G72
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A1500] Android_Mali_G72_Vulkan
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC65A000] Android_Mali_G76
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A0600] Android_Mali_G76_Vulkan
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC65AC00] Android_Mali_G77
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A2D00] Android_Mali_G77_Vulkan
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC658900] Android_Vulkan_SM5
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A2300] Android_PowerVR_G6xxx
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC65AE00] Android_PowerVR_GT7xxx
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A0700] Android_PowerVR_GE8xxx
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC659800] Android_PowerVR_GM9xxx
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A0100] Android_PowerVR_GM9xxx_Vulkan
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC659300] Android_TegraK1
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC6A2400] Android_Unknown_Vulkan
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC659500] Lumin
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FB5C4A00] Lumin_Desktop
+[2021.04.08-02.28.13:593][665]LogDeviceProfile: Device profile begin destroy: [00000281FC659900] HoloLens
+[2021.04.08-02.28.14:842][665]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.04.08-02.28.14:842][665]LogExit: Editor shut down
+[2021.04.08-02.28.14:843][665]LogExit: Transaction tracking system shut down
+[2021.04.08-02.28.15:104][665]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.04.08-02.28.21:182][665]LogExit: Object subsystem successfully closed.
+[2021.04.08-02.28.22:459][665]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.04.08-02.28.34:036][665]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (820)
+[2021.04.08-02.28.34:036][665]LogModuleManager: Shutting down and abandoning module Voice (818)
+[2021.04.08-02.28.34:059][665]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (816)
+[2021.04.08-02.28.34:059][665]LogModuleManager: Shutting down and abandoning module AddContentDialog (814)
+[2021.04.08-02.28.34:083][665]LogModuleManager: Shutting down and abandoning module WidgetCarousel (813)
+[2021.04.08-02.28.34:083][665]LogModuleManager: Shutting down and abandoning module EditorWidgets (810)
+[2021.04.08-02.28.34:083][665]LogModuleManager: Shutting down and abandoning module SceneOutliner (808)
+[2021.04.08-02.28.34:083][665]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (806)
+[2021.04.08-02.28.34:083][665]LogModuleManager: Shutting down and abandoning module StatsViewer (804)
+[2021.04.08-02.28.34:152][665]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (802)
+[2021.04.08-02.28.34:177][665]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (800)
+[2021.04.08-02.28.34:213][665]LogModuleManager: Shutting down and abandoning module AutomationWorker (798)
+[2021.04.08-02.28.34:213][665]LogModuleManager: Shutting down and abandoning module SteamVREditor (796)
+[2021.04.08-02.28.34:214][665]LogModuleManager: Shutting down and abandoning module OculusMR (794)
+[2021.04.08-02.28.34:214][665]LogModuleManager: Shutting down and abandoning module PlanarCut (792)
+[2021.04.08-02.28.34:238][665]LogModuleManager: Shutting down and abandoning module CharacterAI (790)
+[2021.04.08-02.28.34:238][665]LogModuleManager: Shutting down and abandoning module GooglePADEditor (788)
+[2021.04.08-02.28.34:238][665]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (786)
+[2021.04.08-02.28.34:238][665]LogModuleManager: Shutting down and abandoning module TextureAlignMode (784)
+[2021.04.08-02.28.34:238][665]LogModuleManager: Shutting down and abandoning module BspMode (782)
+[2021.04.08-02.28.34:238][665]LogModuleManager: Shutting down and abandoning module GeometryMode (780)
+[2021.04.08-02.28.34:238][665]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (778)
+[2021.04.08-02.28.34:257][665]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (776)
+[2021.04.08-02.28.34:257][665]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (774)
+[2021.04.08-02.28.34:483][665]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (772)
+[2021.04.08-02.28.34:514][665]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (770)
+[2021.04.08-02.28.34:514][665]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (768)
+[2021.04.08-02.28.34:514][665]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (766)
+[2021.04.08-02.28.34:514][665]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (764)
+[2021.04.08-02.28.34:514][665]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (762)
+[2021.04.08-02.28.34:514][665]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (760)
+[2021.04.08-02.28.34:515][665]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (758)
+[2021.04.08-02.28.34:515][665]LogModuleManager: Shutting down and abandoning module WebMMedia (756)
+[2021.04.08-02.28.34:524][665]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (754)
+[2021.04.08-02.28.34:610][665]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (752)
+[2021.04.08-02.28.34:638][665]LogModuleManager: Shutting down and abandoning module SequenceRecorder (751)
+[2021.04.08-02.28.34:640][665]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (748)
+[2021.04.08-02.28.34:641][665]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (746)
+[2021.04.08-02.28.34:641][665]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (744)
+[2021.04.08-02.28.34:641][665]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (742)
+[2021.04.08-02.28.34:641][665]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (740)
+[2021.04.08-02.28.34:641][665]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (738)
+[2021.04.08-02.28.34:641][665]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (736)
+[2021.04.08-02.28.34:641][665]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (734)
+[2021.04.08-02.28.34:660][665]LogModuleManager: Shutting down and abandoning module SmartSnapping (732)
+[2021.04.08-02.28.34:660][665]LogModuleManager: Shutting down and abandoning module SessionServices (730)
+[2021.04.08-02.28.34:660][665]LogModuleManager: Shutting down and abandoning module MeshPaint (728)
+[2021.04.08-02.28.34:690][665]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (726)
+[2021.04.08-02.28.34:690][665]LogModuleManager: Shutting down and abandoning module FoliageEdit (724)
+[2021.04.08-02.28.34:691][665]LogModuleManager: Shutting down and abandoning module LandscapeEditor (722)
+[2021.04.08-02.28.34:775][665]LogModuleManager: Shutting down and abandoning module MeshPaintMode (720)
+[2021.04.08-02.28.34:775][665]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (718)
+[2021.04.08-02.28.34:775][665]LogModuleManager: Shutting down and abandoning module ActorPickerMode (716)
+[2021.04.08-02.28.34:775][665]LogModuleManager: Shutting down and abandoning module PlacementMode (714)
+[2021.04.08-02.28.34:776][665]LogModuleManager: Shutting down and abandoning module ViewportSnapping (712)
+[2021.04.08-02.28.34:776][665]LogModuleManager: Shutting down and abandoning module ViewportInteraction (710)
+[2021.04.08-02.28.34:776][665]LogModuleManager: Shutting down and abandoning module ClothPainter (708)
+[2021.04.08-02.28.34:850][665]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (707)
+[2021.04.08-02.28.34:883][665]LogModuleManager: Shutting down and abandoning module LogVisualizer (704)
+[2021.04.08-02.28.34:906][665]LogModuleManager: Shutting down and abandoning module IntroTutorials (702)
+[2021.04.08-02.28.34:916][665]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (701)
+[2021.04.08-02.28.34:954][665]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (698)
+[2021.04.08-02.28.34:954][665]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (696)
+[2021.04.08-02.28.34:955][665]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (694)
+[2021.04.08-02.28.34:955][665]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (693)
+[2021.04.08-02.28.35:754][665]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (690)
+[2021.04.08-02.28.35:754][665]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (688)
+[2021.04.08-02.28.35:755][665]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (686)
+[2021.04.08-02.28.35:755][665]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (684)
+[2021.04.08-02.28.35:755][665]LogModuleManager: Shutting down and abandoning module TraceInsights (682)
+[2021.04.08-02.28.35:801][665]MemoryProfiler: Shutdown
+[2021.04.08-02.28.35:801][665]NetworkingProfiler: Shutdown
+[2021.04.08-02.28.35:801][665]LoadingProfiler: Shutdown
+[2021.04.08-02.28.35:802][665]TimingProfiler: Shutdown
+[2021.04.08-02.28.35:830][665]LogModuleManager: Shutting down and abandoning module TraceServices (681)
+[2021.04.08-02.28.35:860][665]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (678)
+[2021.04.08-02.28.35:860][665]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (676)
+[2021.04.08-02.28.35:860][665]LogModuleManager: Shutting down and abandoning module InputBindingEditor (674)
+[2021.04.08-02.28.35:876][665]LogModuleManager: Shutting down and abandoning module MergeActors (672)
+[2021.04.08-02.28.35:890][665]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (670)
+[2021.04.08-02.28.35:894][665]LogModuleManager: Shutting down and abandoning module LocalizationService (669)
+[2021.04.08-02.28.35:915][665]LogModuleManager: Shutting down and abandoning module HardwareTargeting (666)
+[2021.04.08-02.28.35:915][665]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (664)
+[2021.04.08-02.28.36:150][665]LogModuleManager: Shutting down and abandoning module UndoHistory (662)
+[2021.04.08-02.28.36:214][665]LogModuleManager: Shutting down and abandoning module XmlParser (660)
+[2021.04.08-02.28.36:334][665]LogModuleManager: Shutting down and abandoning module Blutility (658)
+[2021.04.08-02.28.36:334][665]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (656)
+[2021.04.08-02.28.36:334][665]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (655)
+[2021.04.08-02.28.36:335][665]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (652)
+[2021.04.08-02.28.36:335][665]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (651)
+[2021.04.08-02.28.36:345][665]LogModuleManager: Shutting down and abandoning module SettingsEditor (648)
+[2021.04.08-02.28.36:345][665]LogModuleManager: Shutting down and abandoning module ProjectLauncher (646)
+[2021.04.08-02.28.36:368][665]LogModuleManager: Shutting down and abandoning module SessionFrontend (644)
+[2021.04.08-02.28.36:375][665]LogModuleManager: Shutting down and abandoning module ProfilerClient (642)
+[2021.04.08-02.28.36:392][665]LogModuleManager: Shutting down and abandoning module DeviceManager (640)
+[2021.04.08-02.28.36:467][665]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (639)
+[2021.04.08-02.28.36:581][665]LogModuleManager: Shutting down and abandoning module AutomationController (636)
+[2021.04.08-02.28.36:660][665]LogModuleManager: Shutting down and abandoning module AutomationWindow (634)
+[2021.04.08-02.28.36:763][665]LogModuleManager: Shutting down and abandoning module Layers (632)
+[2021.04.08-02.28.37:205][665]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (630)
+[2021.04.08-02.28.37:205][665]LogModuleManager: Shutting down and abandoning module DetailCustomizations (628)
+[2021.04.08-02.28.37:224][665]LogModuleManager: Shutting down and abandoning module PackagesDialog (626)
+[2021.04.08-02.28.37:224][665]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (624)
+[2021.04.08-02.28.37:433][665]LogModuleManager: Shutting down and abandoning module Persona (622)
+[2021.04.08-02.28.37:484][665]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (621)
+[2021.04.08-02.28.37:484][665]LogModuleManager: Shutting down and abandoning module AnimGraph (619)
+[2021.04.08-02.28.37:499][665]LogModuleManager: Shutting down and abandoning module Kismet (616)
