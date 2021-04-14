@@ -10707,3 +10707,122 @@ SkySphereBlueprint
 [2021.04.14-16.40.09:933][311]AssetCheck: New page: Asset Save: multiple assets
 [2021.04.14-16.40.09:933][311]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Swamp_BuiltData.Swamp_BuiltData
 [2021.04.14-16.40.09:933][311]LogContentValidation: Display: Validating World /Game/Maps/Swamp.Swamp
+[2021.04.14-16.42.18:612][702]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.04.14-16.42.21:595][757]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.14-16.42.27:613][757]LogSlate: Window 'Message' being destroyed
+[2021.04.14-16.42.27:621][757]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/TreeLeaves.TreeLeaves
+(Selecting 'No' will cause all changes to be lost!)
+[2021.04.14-16.42.40:545][757]LogMaterial: Display: Missing cached shader map for material TreeLeaves, compiling. 
+[2021.04.14-16.42.40:620][757]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.04.14-16.42.40:620][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.14-16.42.40:621][757]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.14-16.42.43:250][757]LogMaterial: Display: Missing cached shader map for material TreeLeaves, compiling. 
+[2021.04.14-16.42.43:400][757]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.04.14-16.42.43:400][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.14-16.42.43:400][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.04.14-16.42.44:760][757]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.14-16.42.45:267][757]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.04.14-16.42.45:267][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.14-16.42.45:318][757]TextureStreamingBuild: Display: Compiling optional shaders took 0.608 seconds.
+[2021.04.14-16.42.45:379][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.04.14-16.42.45:469][757]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.14-16.42.49:258][757]LogSlate: Window 'Message' being destroyed
+[2021.04.14-16.42.49:266][757]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/TreeTrunk.TreeTrunk
+(Selecting 'No' will cause all changes to be lost!)
+[2021.04.14-16.42.50:176][757]LogMaterial: Display: Missing cached shader map for material TreeTrunk, compiling. 
+[2021.04.14-16.42.50:189][757]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.14-16.42.50:209][757]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.04.14-16.42.50:209][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.14-16.42.50:748][757]LogMaterial: Display: Missing cached shader map for material TreeTrunk, compiling. 
+[2021.04.14-16.42.50:776][757]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.04.14-16.42.50:880][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.04.14-16.42.51:182][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.14-16.42.51:603][757]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.14-16.42.52:146][757]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.04.14-16.42.52:147][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.14-16.42.52:179][757]TextureStreamingBuild: Display: Compiling optional shaders took 0.580 seconds.
+[2021.04.14-16.42.52:221][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.04.14-16.42.52:321][757]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.14-16.42.53:922][757]LogSlate: Window 'Message' being destroyed
+[2021.04.14-16.42.53:929][757]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Ground.Ground
+(Selecting 'No' will cause all changes to be lost!)
+[2021.04.14-16.42.54:621][757]LogMaterial: Display: Missing cached shader map for material Ground, compiling. 
+[2021.04.14-16.42.54:630][757]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.04.14-16.42.54:631][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.14-16.42.54:633][757]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.14-16.42.55:196][757]LogMaterial: Display: Missing cached shader map for material Ground, compiling. 
+[2021.04.14-16.42.55:224][757]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.04.14-16.42.55:379][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.14-16.42.55:379][757]LogMaterial: Display: Missing cached shader map for material Ground, compiling. 
+[2021.04.14-16.42.55:572][757]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.04.14-16.42.55:572][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.04.14-16.42.56:218][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.04.14-16.42.56:330][757]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.04.14-16.42.56:521][757]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.14-16.42.57:099][757]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.04.14-16.42.57:575][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.04.14-16.42.57:575][757]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.04.14-16.42.57:681][757]TextureStreamingBuild: Display: Compiling optional shaders took 1.165 seconds.
+[2021.04.14-16.42.57:722][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.04.14-16.42.57:808][757]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.14-16.42.58:901][757]LogSlate: Window 'Message' being destroyed
+[2021.04.14-16.42.58:908][757]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Water.Water
+(Selecting 'No' will cause all changes to be lost!)
+[2021.04.14-16.42.59:585][757]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2021.04.14-16.42.59:609][757]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.14-16.42.59:626][757]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.04.14-16.42.59:626][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.14-16.43.00:007][757]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2021.04.14-16.43.00:010][757]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.04.14-16.43.00:155][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.04.14-16.43.00:476][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.14-16.43.00:709][757]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.14-16.43.01:275][757]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.04.14-16.43.01:275][757]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.04.14-16.43.01:463][757]TextureStreamingBuild: Display: Compiling optional shaders took 0.759 seconds.
+[2021.04.14-16.43.01:504][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.04.14-16.43.01:926][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.04.14-16.43.02:177][757]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.14-16.43.03:344][757]LogSlate: Window 'Save Content' being destroyed
+[2021.04.14-16.43.03:359][757]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.14-16.43.04:380][757]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/BarrierTree7E62D3C94B71E2322E32929A4203E011.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/FoliageActors/BarrierTree.uasset'
+[2021.04.14-16.43.04:448][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ground" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Ground.uasset" SILENT=true
+[2021.04.14-16.43.04:551][757]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Ground0800D2C94D99964A321C1DBC5FDBEF3E.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Ground.uasset'
+[2021.04.14-16.43.04:947][757]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Leaf_Cluster2_Foliage046B5E144F660A48F1046A8D14343E4A.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Sprites/FoliageActors/Leaf_Cluster2_Foliage.uasset'
+[2021.04.14-16.43.04:969][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InivisibleWalls/Swamp1" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/InivisibleWalls/Swamp1.uasset" SILENT=true
+[2021.04.14-16.43.04:971][757]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Swamp1EEDF7B3341D83683A90CEE88CA6FF96A.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/InivisibleWalls/Swamp1.uasset'
+[2021.04.14-16.43.04:986][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InivisibleWalls/Swamp13" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/InivisibleWalls/Swamp13.uasset" SILENT=true
+[2021.04.14-16.43.05:022][757]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Swamp1342BEE6B542BEF215E5EFD0BCA1A06BD0.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/InivisibleWalls/Swamp13.uasset'
+[2021.04.14-16.43.05:035][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Swamp14" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Swamp14.uasset" SILENT=true
+[2021.04.14-16.43.05:072][757]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Swamp144A08631843BDA942CA8CB88B4D229C09.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Swamp14.uasset'
+[2021.04.14-16.43.05:087][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Swamp15" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Swamp15.uasset" SILENT=true
+[2021.04.14-16.43.05:094][757]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Swamp15DF8964CD43C13309963AFBBDD0316649.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Swamp15.uasset'
+[2021.04.14-16.43.05:095][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InivisibleWalls/Swamp2" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/InivisibleWalls/Swamp2.uasset" SILENT=true
+[2021.04.14-16.43.05:098][757]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Swamp2F33E4CAC4586027D68401F818FBDBA99.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/InivisibleWalls/Swamp2.uasset'
+[2021.04.14-16.43.05:099][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InivisibleWalls/Swamp3" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/InivisibleWalls/Swamp3.uasset" SILENT=true
+[2021.04.14-16.43.05:101][757]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Swamp3D88A4EFA410DCA0BFC4E3383CF6A9917.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/InivisibleWalls/Swamp3.uasset'
+[2021.04.14-16.43.05:102][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InivisibleWalls/Swamp4" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/InivisibleWalls/Swamp4.uasset" SILENT=true
+[2021.04.14-16.43.05:104][757]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/Swamp4C51A93CE43BEE893B9164AABE689F51B.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/InivisibleWalls/Swamp4.uasset'
+[2021.04.14-16.43.05:119][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeLeaves" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/TreeLeaves.uasset" SILENT=true
+[2021.04.14-16.43.05:124][757]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/TreeLeavesE222AD6342AD4EFEC0F87F86C99859BB.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/TreeLeaves.uasset'
+[2021.04.14-16.43.05:588][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeTrunk" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/TreeTrunk.uasset" SILENT=true
+[2021.04.14-16.43.05:625][757]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/TreeTrunkAAC9016D479A07A23096CD90744E365C.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/TreeTrunk.uasset'
+[2021.04.14-16.43.05:767][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Water" FILE="../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Water.uasset" SILENT=true
+[2021.04.14-16.43.05:773][757]LogSavePackage: Moving '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Saved/WaterAF5E357D4938BE76EC98B3BB65B113E6.tmp' to '../../../../../../Unreal Projects/MouseTale/Mouse_Tale/A_Mouse_Tale/Content/Water.uasset'
+[2021.04.14-16.43.15:547][757]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.04.14-16.43.15:547][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.14-16.43.34:870][757]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.04.14-16.43.34:870][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.14-16.43.39:763][757]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.04.14-16.43.39:763][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.14-16.44.03:283][757]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.04.14-16.44.03:283][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.14-16.44.04:318][757]LogSlate: Window 'Water' being destroyed
+[2021.04.14-16.44.08:362][757]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.04.14-16.44.08:362][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.14-16.44.10:895][757]LogSlate: Window 'A_Mouse_Tale - Unreal Editor' being destroyed
+[2021.04.14-16.44.10:949][757]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
